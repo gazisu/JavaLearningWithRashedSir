@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.util.Scanner;
 
 public class AssignmentSwitch {
@@ -22,7 +22,7 @@ public class AssignmentSwitch {
         }
     }
 }
-=======
+/*=======
 import java.util.Scanner;
 
 public class AssignmentSwitch {
@@ -47,3 +47,5 @@ public class AssignmentSwitch {
     }
 }
 >>>>>>> 568c03cb6383516b855986cb6c5024531e349c39
+*/
+
